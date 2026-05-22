@@ -15,7 +15,7 @@ Al finalizar esta clase, serás capaz de:
 
 ## Estructura del Repositorio
 
-  * [**`Clase3_Reduccion_de_Dimensionalidad.ipynb`**](https://drive.google.com/file/d/1AwfFpsLga7C61pdv57ZNHGNmCOyl1s26/view?usp=sharing): Notebook práctico con simulaciones de datos ómicos y aplicaciones sobre los datasets *Digits* y *PBMC sintético*.
+  * [Clase3_Reduccion_de_Dimensionalidad.ipynb](https://colab.research.google.com/drive/1AwfFpsLga7C61pdv57ZNHGNmCOyl1s26#scrollTo=b4a912e8): Notebook práctico con simulaciones de datos ómicos y aplicaciones sobre los datasets *Digits* y *PBMC sintético*.
   * **`bibliografia_clase3.md`**: Referencias a textos fundamentales como *The Elements of Statistical Learning* y artículos clave sobre UMAP y t-SNE.
 
 ## Cómo ejecutar el material
@@ -26,7 +26,7 @@ Para garantizar que el entorno cuente con todas las dependencias necesarias (inc
 
 > ### Abrir el notebook utilizando el enlace citado a continuación para aprovechar el entorno de Google Colab preconfigurado con todas las dependencias necesarias:
 > 
-> [**`Clase3_Reduccion_de_Dimensionalidad.ipynb`**](https://drive.google.com/file/d/1AwfFpsLga7C61pdv57ZNHGNmCOyl1s26/view?usp=sharing)
+> [Clase3_Reduccion_de_Dimensionalidad.ipynb](https://colab.research.google.com/drive/1AwfFpsLga7C61pdv57ZNHGNmCOyl1s26#scrollTo=b4a912e8)
 
 ### Opción B: Ejecución Local
 
